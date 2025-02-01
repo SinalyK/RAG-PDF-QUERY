@@ -1,0 +1,25 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+bs4 #To extrac HTML Page
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+langchain-community
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+streamlit
+langchain_groq
+fastapi
+uvicorn
+langserve
+arxiv
+wikipedia
+pathlib
+mysql-connector-python
+#SQLAlchemy
